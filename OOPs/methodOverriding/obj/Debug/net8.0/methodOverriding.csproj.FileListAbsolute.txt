@@ -1,0 +1,14 @@
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\bin\Debug\net8.0\methodOverriding.exe
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\bin\Debug\net8.0\methodOverriding.deps.json
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\bin\Debug\net8.0\methodOverriding.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\bin\Debug\net8.0\methodOverriding.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\bin\Debug\net8.0\methodOverriding.pdb
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\refint\methodOverriding.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.pdb
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\methodOverriding.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\methodOverriding\obj\Debug\net8.0\ref\methodOverriding.dll

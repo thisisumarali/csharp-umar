@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\bin\Debug\net6.0\C#Operations.exe
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\bin\Debug\net6.0\C#Operations.deps.json
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\bin\Debug\net6.0\C#Operations.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\bin\Debug\net6.0\C#Operations.dll
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\bin\Debug\net6.0\C#Operations.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.dll
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\refint\C#Operations.dll
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\C#Operations.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\C#Operations\C#Operations\C#Operations\obj\Debug\net6.0\ref\C#Operations.dll

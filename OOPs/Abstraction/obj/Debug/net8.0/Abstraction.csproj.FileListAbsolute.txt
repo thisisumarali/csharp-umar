@@ -1,0 +1,14 @@
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll

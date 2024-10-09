@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\bin\Debug\net6.0\constructor_in_Csharp.exe
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\bin\Debug\net6.0\constructor_in_Csharp.deps.json
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\bin\Debug\net6.0\constructor_in_Csharp.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\bin\Debug\net6.0\constructor_in_Csharp.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\bin\Debug\net6.0\constructor_in_Csharp.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\refint\constructor_in_Csharp.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\constructor_in_Csharp.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\constructor_in_Csharp\obj\Debug\net6.0\ref\constructor_in_Csharp.dll

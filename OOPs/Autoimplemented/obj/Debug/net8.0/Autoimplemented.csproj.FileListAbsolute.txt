@@ -1,0 +1,14 @@
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\bin\Debug\net8.0\Autoimplemented.exe
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\bin\Debug\net8.0\Autoimplemented.deps.json
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\bin\Debug\net8.0\Autoimplemented.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\bin\Debug\net8.0\Autoimplemented.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\bin\Debug\net8.0\Autoimplemented.pdb
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\refint\Autoimplemented.dll
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.pdb
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\Autoimplemented.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\CSharp\Autoimplemented\obj\Debug\net8.0\ref\Autoimplemented.dll

@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\Inheritance\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

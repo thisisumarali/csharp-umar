@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\bin\Debug\net6.0\switch.exe
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\bin\Debug\net6.0\switch.deps.json
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\bin\Debug\net6.0\switch.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\bin\Debug\net6.0\switch.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\bin\Debug\net6.0\switch.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\refint\switch.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\switch.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\switch\obj\Debug\net6.0\ref\switch.dll

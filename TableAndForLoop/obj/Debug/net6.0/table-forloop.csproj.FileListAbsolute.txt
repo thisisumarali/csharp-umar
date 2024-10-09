@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\bin\Debug\net6.0\table-forloop.exe
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\bin\Debug\net6.0\table-forloop.deps.json
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\bin\Debug\net6.0\table-forloop.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\bin\Debug\net6.0\table-forloop.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\bin\Debug\net6.0\table-forloop.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\refint\table-forloop.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\table-forloop.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\table-forloop\obj\Debug\net6.0\ref\table-forloop.dll

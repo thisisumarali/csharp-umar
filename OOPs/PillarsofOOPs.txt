@@ -1,0 +1,24 @@
+There are 4 pillars of object oriented programming...
+
+1- Inheritance
+2- Abstraction
+3- Encapsulation
+4- Polymorphism
+
+Type of Inheritance 
+
+1- Single Level Inheritance
+2- Multilevel Inheritance
+3- Hierachical Inheritance
+4- Multiple Inheritance
+
+Poly morphs -> many forms
+
+Types of Polymorphism
+1- Static Polymorphism (Compile Time Polymorphism)
+(early binding)
+Two Techniques 
+- Method Overloading
+- Operator Overloading
+2- Dynamic Polymorphism (Run time polymorphism) (later)
+

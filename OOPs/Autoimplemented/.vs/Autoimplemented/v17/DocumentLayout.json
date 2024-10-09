@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asp.APTECHNK1\\Desktop\\CSharp\\Autoimplemented\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E16C7F5-8B7A-437E-AFF3-D92B766E1431}|Autoimplemented.csproj|c:\\users\\asp.aptechnk1\\desktop\\csharp\\autoimplemented\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E16C7F5-8B7A-437E-AFF3-D92B766E1431}|Autoimplemented.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\CSharp\\Autoimplemented\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\CSharp\\Autoimplemented\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:35:51.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\bin\Debug\net6.0\calculator.exe
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\bin\Debug\net6.0\calculator.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\bin\Debug\net6.0\calculator.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\refint\calculator.dll
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.pdb
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\Desktop\C#\calculator\obj\Debug\net6.0\ref\calculator.dll
